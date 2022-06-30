@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vivek-Bhagat
 - 👀 I’m interested in ... JavaScript, Web Development
-- 🌱 I’m currently learning ... JavaScript And NEXT.js
+- 🌱 I’m currently learning ... JavaScript And NEXT.js/React.Js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... mail me - vivekbhagat1890@gotmail.com
 
