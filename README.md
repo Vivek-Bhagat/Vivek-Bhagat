@@ -6,21 +6,21 @@
 
 <p align="left"> <a href="https://twitter.com/vivek_bhagat_" target="blank"><img src="https://img.shields.io/twitter/follow/vivek_bhagat_?logo=twitter&style=for-the-badge" alt="vivek_bhagat_" /></a> </p>
 
-- 🔭 I’m currently working on **....**
+- 🔭 I’m currently working on              ** .... **
 
-- 🌱 I’m currently learning **React and JavaScript**
+- 🌱 I’m currently learning                ** React and JavaScript **
 
-- 👯 I’m looking to collaborate on **....**
+- 👯 I’m looking to collaborate on         **....**
 
-- 🤝 I’m looking for help with **....**
+- 🤝 I’m looking for help with             ** .... **
 
-- 👨‍💻 All of my projects are available at [.....](.....)
+- 👨‍💻 All of my projects are available at  [.....](.....)
 
-- 💬 Ask me about **react, javascript and gsap**
+- 💬 Ask me about                         ** React, JavaScript and GSAP **
 
-- 📫 How to reach me **vivekbhagat1890@gmail.com**
+- 📫 How to reach me                      ** vivekbhagat1890@gmail.com **
 
-- ⚡ Fun fact **I think I'm funny**
+- ⚡ Fun fact                             ** I think I'm funny **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,7 +36,7 @@
 
 
 # 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivek-bhagat&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="vivek-bhagat" /></p> <br/>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivek-bhagat&show_icons=true&theme=highcontrast&title_color=00ff2a&text_color=00ffff&locale=en&layout=compact" alt="vivek-bhagat" /></p> <br/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vivek-bhagat&show_icons=true&theme=radical&title_color=00ff2a&text_color=00e1ff&locale=en" alt="vivek-bhagat" /></p><br/>
 
@@ -48,7 +48,5 @@
 
 
 
-<!-- ![](https://github-readme-stats.vercel.app/api?username=raj208&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=raj208&theme=chartreuse-dark&hide_border=false)<br/> -->
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=raj208&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
+
 ![Snake animation](https://github.com/Deep0123/Deep0123/blob/output/github-contribution-grid-snake.svg)
