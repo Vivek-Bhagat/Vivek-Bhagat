@@ -6,15 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/vivek_bhagat_" target="blank"><img src="https://img.shields.io/twitter/follow/vivek_bhagat_?logo=twitter&style=for-the-badge" alt="vivek_bhagat_" /></a> </p>
 
-- 🔭 I’m currently working on              ** .... **
+- 🔭 I’m currently working on              ** My Portfolio**
 
 - 🌱 I’m currently learning                ** React and JavaScript **
 
-- 👯 I’m looking to collaborate on         **....**
-
-- 🤝 I’m looking for help with             ** .... **
-
-- 👨‍💻 All of my projects are available at  [.....](.....)
+- 👨‍💻 All of my projects are available at  [GitHub]
 
 - 💬 Ask me about                         ** React, JavaScript and GSAP **
 
