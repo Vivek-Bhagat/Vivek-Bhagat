@@ -1,12 +1,10 @@
-![MasterHead](https://images8.alphacoders.com/115/thumb-1920-1156488.png)
-<h1 align="center">Hi 👋, I'm Vivek Bhagat</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+![MasterHead](https://th.bing.com/th/id/OIP.efUvc7EHRuyVrmjNujR5SQAAAA?pid=ImgDet&rs=1)
+<h1 align="center">Hii! 👋, I'm Vivek Bhagat</h1>
+<h3 align="center">Tech Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek-bhagat&label=Profile%20views&color=04ff00&style=flat" alt="vivek-bhagat" /> </p>
 
 <p align="left"> <a href="https://twitter.com/vivek_bhagat_" target="blank"><img src="https://img.shields.io/twitter/follow/vivek_bhagat_?logo=twitter&style=for-the-badge" alt="vivek_bhagat_" /></a> </p>
-
-- 🔭 I’m currently working on              ** My Portfolio**
 
 - 🌱 I’m currently learning                ** React and JavaScript **
 
