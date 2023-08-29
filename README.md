@@ -28,7 +28,8 @@
 
 
 # 📊 GitHub Stats:
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivek-bhagat&show_icons=true&theme=highcontrast&title_color=00ff2a&text_color=00ffff&locale=en&layout=compact" alt="vivek-bhagat" /></p> <br/>
+![vivek-bhagat's Stats](https://github-readme-stats.vercel.app/api?username=vivek-bhagat&theme=dracula&show_icons=true&hide_border=false&count_private=true)
+ <br/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vivek-bhagat&show_icons=true&theme=highcontrast&title_color=00ff2a&text_color=00e1ff&locale=en" alt="vivek-bhagat" /></p><br/>
 
