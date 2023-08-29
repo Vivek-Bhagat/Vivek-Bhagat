@@ -6,11 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/vivek_bhagat_" target="blank"><img src="https://img.shields.io/twitter/follow/vivek_bhagat_?logo=twitter&style=for-the-badge" alt="vivek_bhagat_" /></a> </p>
 
-- 🌱 I’m currently learning                ** React and JavaScript **
+- 🌱 I’m currently learning                ** typeScript and Next.js **
 
 - 👨‍💻 All of my projects are available at  [GitHub]
-
-- 💬 Ask me about                         ** React, JavaScript and GSAP **
 
 - 📫 How to reach me                      ** vivekbhagat1890@gmail.com **
 
